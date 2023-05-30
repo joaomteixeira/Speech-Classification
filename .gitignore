@@ -2,10 +2,8 @@
 
 train100/
 
-
-
-
-
+.vscode
+train100.tar.gz
 
 
 # Byte-compiled / optimized / DLL files
